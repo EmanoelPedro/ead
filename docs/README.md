@@ -11,8 +11,8 @@
 #### TELA DE CURSOS GERAL
 ![alt text](https://emanoelpedro.github.io/ead/docs/tela2.png)
 
-#### TELA DE CURSOS (GERAL) 
+#### TELA DE PAGAMENTOS E CARTÕES
 ![alt text](https://emanoelpedro.github.io/ead/docs/tela3.png)
 
-#### TELA DE PAGAMENTOS E CARTÕES
+#### TELA DE AULA
 ![alt text](https://emanoelpedro.github.io/ead/docs/tela4.png)
